@@ -1,0 +1,1 @@
+<p>About view loaded with main layout</p>

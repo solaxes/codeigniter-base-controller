@@ -1,0 +1,1 @@
+<p>Index page loaded with default layout</p>
