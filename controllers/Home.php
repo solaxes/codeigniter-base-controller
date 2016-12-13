@@ -33,7 +33,7 @@ class Home extends MY_Controller
 	
     function about()
     {        
-		$this->_layout( 'main' );
+	$this->_layout( 'main' );
         $this->_view( 'about' );
     }
 
