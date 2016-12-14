@@ -8,7 +8,7 @@
  * will include default functions which will be used throughout the application
  *
  */
-class ST_Controller extends CI_Controller
+class MY_Controller extends CI_Controller
 {
 
     var $layout = "layout/default"; //default layout
